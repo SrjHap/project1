@@ -1,5 +1,5 @@
 from tkinter import*
-
+#start_project
 def fCalc(src, side):
     appObj = Frame(src, borderwidth=4, bd=2,bg = "#cccccc")
     appObj.pack(side=side, expand=YES, fill=BOTH)
